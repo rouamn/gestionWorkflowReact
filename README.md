@@ -40,3 +40,6 @@ Le projet de gestion de workflow est une application web visant à simplifier et
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/rouamn/gestionWorkflowReact.git
+backend Repository
+The backend for this project is built using .net You can find the repository here:
+https://github.com/rouamn/gestionworkflow
